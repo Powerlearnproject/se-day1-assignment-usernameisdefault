@@ -213,3 +213,13 @@ Good prompt: "Explain the differences between supervised and unsupervised learni
 By mastering prompt engineering, users can harness the full potential of AI models and achieve better results in various applications, from customer service to content creation.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt: "Tell me about AI."
+
+Improved prompt: "Explain the concept of machine learning, and provide an example of a real-world application."
+
+Explanation: The improved prompt is more effective because it:
+
+Specifies the topic: It clearly defines the subject matter as "machine learning."
+Provides context: It asks for an explanation of the concept, making it easier for the AI to understand the user's intent.
+Requests a specific example: It asks for a real-world application, which helps the AI provide a more concrete and relevant response.
+The original prompt was too broad and could have led to a variety of responses, potentially unrelated to machine learning. The improved prompt is more focused and likely to generate a more informative and useful answer.
